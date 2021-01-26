@@ -1,0 +1,6 @@
+appdirs==1.4.4
+certifi==2020.12.5
+distlib==0.3.1
+opencv-contrib-python==4.4.0.44
+virtualenv==20.0.33
+wincertstore==0.2
